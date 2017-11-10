@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
-    <string name="paystack_api_key">pk_live_43e98bc467607ba16a54fdd6d0c07088f07ebf2b</string>
+    <!-- <string name="paystack_api_key">YOUR_PAYSTACK_API_KEY</string> -->
 </resources>
