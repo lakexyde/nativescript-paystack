@@ -1,7 +1,7 @@
 {
     "name": "nativescript-paystack",
     "version": "1.0.0",
-    "description": "Your awesome NativeScript plugin.",
+    "description": "NativeScript Paystack plugin.",
     "main": "paystack",
     "typings": "index.d.ts",
     "nativescript": {
@@ -33,13 +33,13 @@
         "iOS"
     ],
     "author": {
-        "name": "Your Name",
-        "email": "youremail@yourdomain.com"
+        "name": "Olalekan Oladipupo",
+        "email": "olalekanoladipupo1050@gmail.com"
     },
     "bugs": {
         "url": "https://github.com/lakexyde/nativescript-paystack/issues"
     },
-    "license": "Apache-2.0",
+    "license": "MIT",
     "homepage": "https://github.com/lakexyde/nativescript-paystack",
     "readmeFilename": "README.md",
     "devDependencies": {
